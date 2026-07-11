@@ -470,16 +470,6 @@ p a:hover {
 	padding: 0 5px;
 }
 
-.gallery-note {
-	color: #585758;
-	line-height: 24px;
-	margin: 35px 0 0;
-}
-
-.gallery-note a {
-	color: #9d1c26;
-}
-
 #footer {
 	margin: 0 auto;
 	min-height: 96px;
