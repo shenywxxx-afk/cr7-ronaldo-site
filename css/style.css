@@ -424,6 +424,26 @@ p a:hover {
 	color: #4e4a46;
 }
 
+.story-section {
+	border-bottom: 1px solid #d8d3cc;
+	margin: 0 0 28px;
+	padding: 0 0 18px;
+	scroll-margin-top: 20px;
+}
+
+.story-section h2 {
+	color: #b98343;
+	font-size: 22px;
+	font-weight: normal;
+	line-height: 26px;
+	margin: 0 0 12px;
+	text-transform: uppercase;
+}
+
+.story-section p:last-child {
+	margin-bottom: 0 !important;
+}
+
 #body div div#content div a.back {
 	color: #585758;
 	display: block;
